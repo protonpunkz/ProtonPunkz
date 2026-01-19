@@ -1,6 +1,6 @@
 # #ProtonPunkz™ 
 
-The New Punks on the Blockchain.
+The New Punkz on the Blockchain™
 
 ProtonPunkz™ is a next-generation Web3 NFT collection built on Polygon and Xpr network, blending pixel art, culture, and decentralized identity.
 
@@ -45,5 +45,5 @@ Unauthorized use, duplication, or commercial use is prohibited.
 
 
 
-ProtonPunkz™ — The New Punks on the Blockchain™.
+ProtonPunkz™ — The New Punkz on the Blockchain™.
 **protonpunkz/ProtonPunkz**
