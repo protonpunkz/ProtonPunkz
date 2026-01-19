@@ -1,4 +1,4 @@
-# #ProtonPunkz™ 
+# #ProtonPunkz
 
 The New Punkz on the Blockchain™
 
